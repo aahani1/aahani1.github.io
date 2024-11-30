@@ -2,7 +2,7 @@ Hi, welcome to my website!
 
 My name is Anastasia, and I am happy to have you here.
 
-Here is me with my dog:
+
 
 <img width="200" alt="Screenshot 2024-11-29 at 7 36 43 PM" src="https://github.com/user-attachments/assets/2bb3b009-5c4e-4e9f-a74e-99d842161efc">
 
